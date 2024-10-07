@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nathan/Documents/GitHub/BlueprintScripting/BlueprintScripting/Content/Scripting/BP_BasicPickUp.uasset",
+				"C:/Users/Nathan/Documents/GitHub/BlueprintScripting/BlueprintScripting/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Nathan/Documents/GitHub/BlueprintScripting/BlueprintScripting/Content/Scripting/LV_TestMap.umap",
+				"C:/Users/Nathan/Documents/GitHub/BlueprintScripting/BlueprintScripting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
